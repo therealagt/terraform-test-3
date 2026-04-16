@@ -1,0 +1,20 @@
+# Terraform files
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+.terraform/
+
+# Logs
+*.log
+crash.log
+crash.*.log
+
+# Backup files
+*.backup
+*.bak
+*.tmp
+
+# Environment files
+.env
+.env.local
