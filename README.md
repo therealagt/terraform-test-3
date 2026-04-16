@@ -1,0 +1,1 @@
+test terraform setup to get some practice. basically a simple structure, private subnet, an app-vm and a db-vm, connecting to the private ap-vm via the load balancer, and the app-vm health checks the db-vm and checks, if the db is running. 
